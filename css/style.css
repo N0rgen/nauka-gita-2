@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.author {
+    font-style: italic;
+    margin-bottom: 2px;
+}
+
+.text a {
+    margin: 5px 0;
+}
+
+.text em {
+    font-style: italic;
+}
